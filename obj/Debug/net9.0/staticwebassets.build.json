@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pibvQ3kQuSmD5CJDqqlFYqKTIWVEYvduj7y91iXdKAQ=",
+  "Source": "MyServiceRequestsAPI3",
+  "BasePath": "_content/MyServiceRequestsAPI3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
