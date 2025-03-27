@@ -34,3 +34,4 @@
 /Users/maryanneserino/MyServiceRequestsAPI3/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/maryanneserino/MyServiceRequestsAPI3/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/maryanneserino/MyServiceRequestsAPI3/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/maryanneserino/MyServiceRequestsAPI3/obj/Debug/net9.0/MyServiceRequestsAPI3.sourcelink.json
