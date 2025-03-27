@@ -1,8 +1,9 @@
 using MyServiceRequestsAPI3.Models;
+using MyServiceRequestsAPI3.Services;
 
 namespace MyServiceRequestsAPI3.Services;
 
-    public class ServiceRequestsService
+    public class ServiceRequestsService : IServiceRequestsService
     {
         private static readonly List<ServiceRequest> _requests = new();
 

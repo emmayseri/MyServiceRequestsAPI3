@@ -8,9 +8,8 @@ namespace ServiceRequestApi.Controllers
     [Route("api/[controller]")]
     public class ServiceRequestController : ControllerBase
     {
-        private readonly ServiceRequestsService _service;
-
-        public ServiceRequestController(ServiceRequestsService service)
+        private readonly IServiceRequestsService _service;
+        public ServiceRequestController(IServiceRequestsService service)
         {
             _service = service;
         }

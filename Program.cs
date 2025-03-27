@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddSingleton<ServiceRequestsService>();
+builder.Services.AddSingleton<IServiceRequestsService, ServiceRequestsService>();
 
 var app = builder.Build();
 
